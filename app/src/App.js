@@ -55,6 +55,9 @@ function App() {
 
   return (
     <>
+    <header className="app-header">
+      <h1>Decentralized Escrow Application</h1>
+    </header>
       <div className="contract">
         <h1> New Contract </h1>
         <label>
